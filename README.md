@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **C as a part of University curriculum and Full Stack development From my end.**
 
 - 📫 How to reach me **Ayush1983pandey@gmail.com**
+- [![An image of @ayush9085's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush9085)](https://holopin.io/@ayush9085)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
