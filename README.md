@@ -57,7 +57,7 @@
 
 ## 🔥 GitHub Streak
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush9085&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ayush9085&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 </div>
