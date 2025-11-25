@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/ayush9085" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/_ay.ushx" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
@@ -54,10 +54,5 @@
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-<p>
-  <img src="https://streak-stats.demolab.com?user=ayush9085&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
 </div>
