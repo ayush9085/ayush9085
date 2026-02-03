@@ -52,7 +52,7 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
-
+<a href="https://u8views.com/github/ayush9085"><img src="https://u8views.com/api/v1/github/profiles/97091654/views/day-week-month-total-count.svg"></a>
 ---
 
 </div>
