@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI Systems • Computer Vision • Applied ML<br><br>👯 I’m looking to collaborate on<br>AI/ML • Backend Systems • Scalable Applications<br><br>🤝 I’m looking for help with<br>Model Optimization • Deployment • System Design<br><br>🌱 I’m currently learning<br>DSA • Machine Learning • Distributed Systems<br><br>💬 Ask me about<br>C • DSA • Frontend • AI Basics<br><br>⚡ Fun fact<br>Tech × Creativity
+## 👾 About Me
+
+I'm a Computer Science student passionate about building intelligent systems and scalable software.
+
+- Focus Areas: AI Systems, Computer Vision, Machine Learning
+- Currently Learning: Data Structures & Algorithms, Machine Learning, Distributed Systems
+- Interested In: Backend Development, System Design, MLOps, Model Deployment
+- Open to collaborating on AI/ML, backend infrastructure, and open-source projects.
+
+> Building software that is practical, scalable, and solves real problems.
 
 
 ## 🌐 Socials:
